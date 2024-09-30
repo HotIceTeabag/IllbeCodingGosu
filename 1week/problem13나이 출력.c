@@ -2,7 +2,6 @@
 #include <stdbool.h>
 #include <stdlib.h>
 
-int* solution(int n) {
-    
-    return answer;
+int solution(int age) {
+    return 2022 - age + 1;
 }
